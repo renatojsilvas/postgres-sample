@@ -1,0 +1,1 @@
+web: gunicorn postgres_sample.wsgi
